@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: '!',
-    introDesc: `Tách ly dùng để uống trà
+    introDesc: `tách ly dùng để uống trà
     Tình ca để hát,
     em là để iuuu
     Trái đất đã vốn lạ thường, mà sao em cứ lạc vào tym anh
