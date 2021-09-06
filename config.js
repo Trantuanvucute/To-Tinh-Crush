@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: '!',
     introDesc: `tách ly dùng để uống trà
-    Tình ca để hát,
+    tình ca để hát,
     em là để iuuu
     Trái đất đã vốn lạ thường, mà sao em cứ lạc vào tym anh
     btnIntro: 'dạ UwU',
